@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MaxwellContainerTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ accordingBRShouldCreateEmptyContainer()
+comment3.params=
+comment3.target=void\ accordingBRShouldAddDemon()
+comment4.params=
+comment4.target=void\ accordingBRShouldAddParticle()
+comment5.params=
+comment5.target=void\ accordingBRShouldMoveParticles()
+numComments=6

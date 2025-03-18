@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Particle
+comment1.params=color\ isRed\ px\ py\ vx\ vy
+comment1.target=Particle(java.lang.String,\ boolean,\ int,\ int,\ int,\ int)
+comment2.params=xMin\ xMax\ yMin\ yMax
+comment2.target=void\ move(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=int\ getPx()
+comment4.params=
+comment4.target=int\ getPy()
+comment5.params=
+comment5.target=int\ getVx()
+comment6.params=
+comment6.target=int\ getVy()
+comment7.params=
+comment7.target=Circle\ getCircle()
+comment8.params=
+comment8.target=boolean\ isRed()
+numComments=9
